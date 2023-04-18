@@ -1,8 +1,3 @@
-[submodule "projects/gcamp7/inputs/data"]
-	path = projects/gcamp7/inputs/data
-	url = https://gin.g-node.org/cmo/neuron_data_1
-	datalad-id = ee7cbadc-958f-40f2-85f9-8c75835047fd
-	datalad-url = https://gin.g-node.org/cmo/neuron_data_1
 [submodule "projects/gcamp7/output/image-stacks"]
 	path = projects/gcamp7/output/image-stacks
 	url = https://gin.g-node.org/cmo/neuron_1_image_stacks
