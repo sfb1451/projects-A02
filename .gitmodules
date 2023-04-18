@@ -3,3 +3,8 @@
 	url = https://gin.g-node.org/cmo/neuron_data_1
 	datalad-id = ee7cbadc-958f-40f2-85f9-8c75835047fd
 	datalad-url = https://gin.g-node.org/cmo/neuron_data_1
+[submodule "projects/gcamp7/output/image-stacks"]
+	path = projects/gcamp7/output/image-stacks
+	url = https://gin.g-node.org/cmo/neuron_1_image_stacks
+	datalad-id = 7d4af6bf-683d-4580-856a-6c0502dd01e5
+	datalad-url = https://gin.g-node.org/cmo/neuron_1_image_stacks
