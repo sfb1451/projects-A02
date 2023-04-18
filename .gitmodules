@@ -3,8 +3,3 @@
 	url = https://gin.g-node.org/cmo/neuron_1_image_stacks
 	datalad-id = 7d4af6bf-683d-4580-856a-6c0502dd01e5
 	datalad-url = https://gin.g-node.org/cmo/neuron_1_image_stacks
-[submodule "projects/neuron_1/output/plots"]
-	path = projects/neuron_1/output/plots
-	url = https://gin.g-node.org/cmo/neuron_1_plots
-	datalad-id = c1092bba-56bc-4279-b33f-c152312b3bed
-	datalad-url = https://gin.g-node.org/cmo/neuron_1_plots
