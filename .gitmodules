@@ -1,0 +1,5 @@
+[submodule "projects/neuron_1/input/data"]
+	path = projects/neuron_1/input/data
+	url = https://gin.g-node.org/cmo/neuron_data_1
+	datalad-id = ee7cbadc-958f-40f2-85f9-8c75835047fd
+	datalad-url = https://gin.g-node.org/cmo/neuron_data_1
