@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: >-
+  Dysregulation of the autophagy-endolysosomal system as a putative
+  pathological mechanism behind the motor control dysfunction
+message: This is our project description
+type: dataset
+authors:
+  - given-names: Natalia
+    family-names: Kononenko
+    email: natalia.kononenko@uk-koeln.de
+    affiliation: >-
+      Cologne Excellence Cluster Cellular Stress Response in
+      Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany;
+      Center for Physiology and Pathophysiology, Faculty of Medicine and
+      University Hospital Cologne, University of Cologne, Cologne, Germany
+    orcid: https://orcid.org/0000-0002-3425-6659
+abstract: >-
+  Voluntary movements are initiated, modulated, and controlled by a neural
+  network, comprised of three major brain areas: the motor cortex, the basal
+  ganglia, and the cerebellum. Many neurodegenerative diseases,
+  including Parkinson's
+  disease (PD), ataxias, and amyotrophic lateral sclerosis (ALS), are
+  characterized by a progressive loss of neurons in these brain regions, but
+  mechanisms underlying their selective vulnerability are currently
+  enigmatic. A common neuropathological hallmark of affected neurons is
+  the abnormal
+  accumulation of protein aggregates. Intracellular protein aggregates are
+  cleared by autophagy, a cellular pathway known to be impaired in
+  neurodegenerative
+  movement disorders. However, how precisely dysfunctional autophagy
+  contributes to impaired motor function is an unresolved question.
+  Functional autophagy is regulated by a variety of cues including the
+  clathrin-mediated endocytosis (CME). We have recently identified clathrin
+  adaptor protein complex-2 (AP-2) as a critical regulator of autophagy in
+  neurons (Kononenko et al., 2017). Strikingly, conditional AP-2 knock-out
+  (KO) mice, although born normal, reveal progressive motor dysfunctions,
+  including cerebellar neurodegeneration and ataxia. These data, combined
+  with the fact that motor deficits are also observed in our
+  autophagy-deficient neuron-confined mouse models, suggest that the
+  dysregulation of the autophagy-endolysosomal system might constitute a
+  critical pathological mechanism behind the motor control dysfunction. The
+  current research proposal focuses on cellular and molecular mechanisms
+  underlying the maintenance of voluntary motor control by neurons in
+  cerebellum and basal ganglia in mice and how endocytic proteins control
+  this process.
