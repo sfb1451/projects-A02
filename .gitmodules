@@ -8,3 +8,8 @@
 	url = https://gin.g-node.org/cmo/neuron_1_plots
 	datalad-id = c1092bba-56bc-4279-b33f-c152312b3bed
 	datalad-url = https://gin.g-node.org/cmo/neuron_1_plots
+[submodule "projects/gcamp7/input/data"]
+	path = projects/gcamp7/input/data
+	url = https://gin.g-node.org/cmo/neuron_data_1
+	datalad-id = ee7cbadc-958f-40f2-85f9-8c75835047fd
+	datalad-url = https://gin.g-node.org/cmo/neuron_data_1
