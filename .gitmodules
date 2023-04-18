@@ -1,5 +1,0 @@
-[submodule "projects/neuron_1/output/image_stacks"]
-	path = projects/neuron_1/output/image_stacks
-	url = https://gin.g-node.org/cmo/neuron_1_image_stacks
-	datalad-id = 7d4af6bf-683d-4580-856a-6c0502dd01e5
-	datalad-url = https://gin.g-node.org/cmo/neuron_1_image_stacks
