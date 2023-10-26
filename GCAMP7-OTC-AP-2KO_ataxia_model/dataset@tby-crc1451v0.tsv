@@ -4,7 +4,7 @@ name	CRC1451-INF-GCAMP7-OTC-AP-2KO_ataxia_model-dataset
 title	GCAMP7 live imaging of AP-2KO mouse Purkinje cells						
 description	The current research proposal focuses on cellular and molecular mechanisms underlying the maintenance of voluntary motor control by neurons in cerebellum and basal ganglia in mice and how endocytic protein AP-2 control this process.  						
 crc-project	A02						
-version	GITSHA 408ae5bd16						
+version	408ae5bd16
 sample[organism]	NCIT:C45247						
 sample[organism-part]	UBERON:0002037						
 keywords	ataxia	cerebellum	endocytosis	GRID2	3D Reconstruction	synapse	AP-2
